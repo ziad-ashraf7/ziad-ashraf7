@@ -68,12 +68,12 @@ University](https://www.helwan.edu.eg/).
         <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
     </a>
     &emsp;
-     &emsp;
-    <a href="https://leetcode.com/Eng_Ziad77/">
-        <img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
-    </a>
     <a href="https://codeforces.com/profile/Z.I.A.D">
         <img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">
+    </a>
+         &emsp;
+    <a href="https://leetcode.com/Eng_Ziad77/">
+        <img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
     </a>
     &emsp;
     <a href="#">
