@@ -81,6 +81,7 @@ University](https://www.helwan.edu.eg/).
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> LeetCode Stats
 ![](https://leetcard.jacoblin.cool/Eng_Ziad77?ext=heatmap) 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Z.I.A.D)
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Eng_Ziad77?ext=heatmap" />
