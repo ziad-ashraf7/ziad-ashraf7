@@ -70,7 +70,7 @@ University](https://www.helwan.edu.eg/).
     &emsp;
      &emsp;
     <a href="https://leetcode.com/Eng_Ziad77/">
-        <img src="https://img.shields.io/badge/LeetCode%20-%2314354C.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
+        <img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
     </a>
     <a href="https://codeforces.com/profile/Z.I.A.D">
         <img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">
