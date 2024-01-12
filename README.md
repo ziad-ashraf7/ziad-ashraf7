@@ -35,6 +35,10 @@ University](https://www.helwan.edu.eg/).
     <a href="#">
         <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
     </a>
+     &emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/LeetCode%20-%232370ED.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
+    </a>
     &emsp;
     <a href="#">
         <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
