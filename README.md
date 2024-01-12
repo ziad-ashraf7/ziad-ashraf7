@@ -79,7 +79,7 @@ University](https://www.helwan.edu.eg/).
 
 <br>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> LeetCode Stats
 <a href="#">
         <img src="(https://leetcode-stats-six.vercel.app/?username=Eng_Ziad77&theme=dark)](https://github.com/ziad-ashraf7
 /leetcode-stats)">
