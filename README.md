@@ -83,9 +83,6 @@ University](https://www.helwan.edu.eg/).
 <p float="left">
 <img height="280em" src="https://leetcard.jacoblin.cool/Eng_Ziad77?ext=heatmap" />
 <img height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Z.I.A.D" />
-</p>
-<p float="left">
 <img height="280em" src="https://raw.githubusercontent.com/ziad-ashraf7/cf-stats/main/output/light_card.svg" />
-</p>
-![](https://raw.githubusercontent.com/ziad-ashraf7/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ziad-ashraf7/cf-stats/main/output/light_card.svg)
+
+
