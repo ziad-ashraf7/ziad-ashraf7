@@ -21,7 +21,8 @@ University](https://www.helwan.edu.eg/).
 <p align="center">
     <a href="mailto:ziad.ashraf.cs@gmail.com"><img
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/ziad-ashraf-59a3772a4/"><img
+    <a href="https://www.linkedin.com/in/ziad-ashraf-59a3772a4/">
+        <img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -67,7 +68,7 @@ University](https://www.helwan.edu.eg/).
         <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
     </a>
     &emsp;
-    <a href="#">
+    <a href="#https://codeforces.com/profile/Z.I.A.D">
         <img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">
     </a>
     &emsp;
