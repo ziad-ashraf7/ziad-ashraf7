@@ -84,5 +84,5 @@ University](https://www.helwan.edu.eg/).
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Eng_Ziad77?ext=heatmap" />
-<img height="280em" src="https://raw.githubusercontent.com/ziad-ashraf7/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/Z.I.A.D/cf-stats/main/output/light_card.svg" />
 </p>
