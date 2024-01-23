@@ -72,7 +72,7 @@ University](https://www.helwan.edu.eg/).
         <img src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">
     </a>
          &emsp;
-    <a href="https://leetcode.com/Eng_Ziad77/">
+    <a href="https://leetcode.com/Z_I_A_D7/">
         <img src="https://img.shields.io/badge/LeetCode%20-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
     </a>
     &emsp;
